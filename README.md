@@ -63,4 +63,4 @@ This project is to create a **Tracking and Review System** for all food stalls a
 [![image]](https://github.com/user-attachments/assets/79f3d343-3160-4531-afe2-9116a2a28eaa)
 
 ## License
-This project is protected by MIT [License](License)
+This project is protected by MIT [License](LICENSE)
