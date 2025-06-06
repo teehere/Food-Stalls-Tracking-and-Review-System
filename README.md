@@ -18,7 +18,7 @@ This system has 2 core parts:
    - Allow users to give their ratings and reviews on the food stalls they have visited
    - Design a suitable method to post the reviews
 
-## Sample Outputs
+## Sample_Outputs
 ### Main Menu
 [(![image]](https://github.com/user-attachments/assets/f370b209-6b40-47b1-87bc-d8c07ef8d550)
 
