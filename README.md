@@ -29,10 +29,10 @@ This system has 2 core parts:
 [![image]](https://github.com/user-attachments/assets/6c414a32-b723-42bb-8b1c-b93d5d57ae8b)
 
 ### Cafe Details
-[![cafe]](https://github.com/user-attachments/assets/46604a27-cf1f-46d3-894e-429b5a6c4b7e)
+[![image]](https://github.com/user-attachments/assets/46604a27-cf1f-46d3-894e-429b5a6c4b7e)
 
 ### Fast Food Details
-[![fast]](https://github.com/user-attachments/assets/c79c657e-9071-4377-aa6b-ea8198b09d01)
+[![image]](https://github.com/user-attachments/assets/c79c657e-9071-4377-aa6b-ea8198b09d01)
 
 ### Add, Modify, Delete 
 [![image]](https://github.com/user-attachments/assets/e70b9688-0b09-4c11-80f1-d4ee3c6228b9)
