@@ -26,7 +26,7 @@ This project is to create a **Tracking and Review System** for all food stalls a
 
 ## Sample_Outputs
 ### Main Menu
-(![image](https://github.com/user-attachments/assets/f370b209-6b40-47b1-87bc-d8c07ef8d550)
+![image](https://github.com/user-attachments/assets/f370b209-6b40-47b1-87bc-d8c07ef8d550)
 
 ### Types of Store
 ![image](https://github.com/user-attachments/assets/2a0f5963-eb8c-4bb5-bdcc-fcc848ef006d)
